@@ -2,8 +2,6 @@
 
 > version:2.13.2
 
-  <br/>
-
 **总结**
 - [generator函数转为async函数](https://github.com/lok660/koa-source-code/issues/1)
 - [compose与洋葱式调用](https://github.com/lok660/koa-source-code/issues/2)
