@@ -1,6 +1,6 @@
 ### 阅读Koa源码
 
-> version:2.13.2     
+> version:2.13.2    
 
 **总结**
 - [generator函数转为async函数](https://github.com/lok660/koa-source-code/issues/1)
